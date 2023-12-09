@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+   
+
+}
+h2{
+    font-size:35px;
+    font-weight:550;
+}
+body{
+    background-color: rgb(208, 228, 228);
+}
+
+.canvas{
+    width: 700px;
+    height: 500px;
+    color: black;
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+
+}
+
+.button{
+    width: 100px;
+    height: 100px;
+    background-color: antiquewhite;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 15px;
+    border: 2px solid rgb(54, 54, 54);
+
+}
+#grey{
+    background-color:grey ;
+    cursor: pointer;
+}
+#blue{
+    background-color: rgb(112, 147, 221);
+    cursor: pointer;
+}
+#green{
+    background-color: rgb(83, 161, 83);
+    cursor: pointer;
+}
+#red{
+    background-color: rgb(226, 84, 84);
+    cursor: pointer;
+}
+#yellow{
+    background-color: rgb(247, 247, 108);
+    cursor: pointer;
+}
+#orange{
+    background-color: rgb(240, 173, 72);
+    cursor:pointer;
+}
+#purple{
+    background-color: blueviolet;
+    cursor: pointer;
+}
+#pink{
+    background-color: rgb(241, 141, 158);
+    cursor: pointer;
+}
+#magenta{
+    background-color: rgb(238, 116, 238);
+    cursor: pointer;
+}
+#darkblue{
+    background-color: rgb(57, 57, 131);
+    cursor: pointer;
+}
+#darkgreen{
+    background-color: rgb(50, 78, 50);
+    cursor: pointer;
+}
+#maroon{
+    background-color: rgb(139, 61, 61);
+    cursor: pointer;
+}
+#lightyellow{
+    background-color: lightgoldenrodyellow;
+    cursor: pointer;
+}
+#lightblue{
+    background-color: lightblue;
+    cursor: pointer;
+}
+#cyan{
+    background-color: cyan;
+    cursor: pointer;
+}
